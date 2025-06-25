@@ -1,0 +1,6 @@
+langchain-community
+pypdf
+langchain-groq
+langchain-ollama
+
+#pip install -r requirements.txt
