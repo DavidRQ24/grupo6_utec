@@ -5,13 +5,13 @@ from prompt import prompt,parser
 
 llm = ChatGroq(
     temperature=0,
-    model_name="llama3-8b-8192",
-    groq_api_key="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"
+    model_name="llama-3.3-70b-versatile",
+    groq_api_key="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"
 )
 
 def get_response(retrieved_documents,question):
     
-    chain = LLMChain(llm=llm, prompt=prompt, output_parser=parser) #objeto que concatena todo y permite ejecutar
+    chain = LLMChain(llm=llm, prompt=prompt, output_parser=parser) #Objeto que concatena todo y permite ejecutar
 
     texto = str(retrieved_documents)
 

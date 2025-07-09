@@ -1,0 +1,21 @@
+
+    ¿Dónde se encuentra ubicado el manifold de bleeddown en la maquinaria?
+    ¿Cuál es la función principal del manifold de bleeddown?
+    ¿Qué componentes recibe el manifold de bleeddown del sistema hidráulico?
+    ¿Para qué sirve la válvula de alivio en el sistema hidráulico del manifold de bleeddown?
+    ¿Qué presión máxima limita la válvula de alivio para los circuitos de dirección y freno?
+    ¿Qué realiza la válvula de alivio para la protección del sistema hidráulico cuando la presión excede los límites?
+    ¿Por qué no puede ser reconstruido individualmente la válvula de alivio, la electroválvula de bleeddown del acumulador o la electroválvula de límite de levantamiento?
+    ¿Qué sucede con la electroválvula de bleeddown del acumulador de dirección cuando se apaga el motor?
+    ¿Por qué el presión de frenos no se bleed down a través de la electroválvula de bleeddown del acumulador?
+    ¿Qué indica la activación del interruptor de presión baja de la dirección cuando el sistema inicia?
+    ¿Cuánto tiempo tarda en desenergizarse la electroválvula de bleeddown después de apagar el motor?
+    ¿Qué se debe hacer en una situación de emergencia si el sistema hidráulico principal no funciona?
+    ¿Para qué sirven los puertos de desconexión rápida en el manifold de bleeddown?
+    ¿Cuándo debería usarse únicamente la conexión a estos puertos de desconexión rápida?
+    ¿Qué función cumple el amplificador de flujo en el sistema hidráulico de dirección?
+    ¿Cómo determina el amplificador de flujo la cantidad de aceite que envía a los cilindros de la dirección?
+    ¿Cuál es el propósito de la válvula de presión de frenado en el sistema de bleeddown?
+    ¿Qué activa el interruptor de presión baja en la dirección, y qué indica?
+    ¿Por qué es importante que el sistema vuelva a estar cargado de aceite después del bleeddown?
+    ¿Qué consecuencias podría tener una presión de dirección por debajo de 2,300 psi durante la operación?

@@ -7,9 +7,9 @@ def get_documents(question,pages):
         model="llama3",
     )
     
-    pages_new = [page.page_content for page in pages][0]
+    pages_new = [page.page_content for page in pages]#[0]
     vectorstore = InMemoryVectorStore.from_texts(
-        [pages_new],
+        pages_new,
         embedding=embeddings,
     )
 

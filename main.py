@@ -4,18 +4,19 @@ from prompt import get_prompt
 from llm import llm
 from llm import get_response
 
-#Archivo cargado
-file_path=r'C:\Users\dgrom\OneDrive\Documentos\TG Python UTEC\Manual.pdf'
+#Definimos la función main
+def pipeline(question):
 
-documents = load_documents(file_path)
+    #Ruta del archivo
+    file_path=r'C:\Users\dgrom\OneDrive\Documentos\TG_Python_UTEC\Manual.pdf'
 
-#Pregunta
-question = "what happends if water gets inside the connector?"
+    #Parsing
+    documents = load_documents(file_path)
 
-#Retrieval
-retrieved_documents = get_documents(question,documents)
+    #Retrieval
+    retrieved_documents = get_documents(question,documents)
+    
+    #Response
+    respuesta = get_response(retrieved_documents,question)
 
-#Response
-respuesta = get_response(retrieved_documents,question)
-
-print(respuesta)
+    return respuesta

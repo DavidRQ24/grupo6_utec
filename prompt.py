@@ -5,7 +5,7 @@ from pydantic import BaseModel, Field
 TEMPLATE="""
 Responde la pregunta {pregunta} en base a la información del
 {texto}
-
+La respuesta debe ser siempre un objeto del tipo JSON válido
 El formato de salida debe ser el siguiente:{format_instructions}
 """
 def get_prompt(template):
