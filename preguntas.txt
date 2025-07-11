@@ -19,3 +19,21 @@
     ¿Qué activa el interruptor de presión baja en la dirección, y qué indica?
     ¿Por qué es importante que el sistema vuelva a estar cargado de aceite después del bleeddown?
     ¿Qué consecuencias podría tener una presión de dirección por debajo de 2,300 psi durante la operación?
+    ¿Qué se debe hacer antes de soldar o reparar un camión con sistema de tracción AC?
+    ¿Quiénes están autorizados para realizar reparaciones en el sistema de tracción AC?
+    ¿Qué riesgos se buscan evitar siguiendo estas precauciones?
+    ¿Qué se debe verificar respecto a las luces de advertencia del sistema de tracción antes de abrir gabinetes o tocar cables de potencia?
+    ¿Qué cables se deben desconectar siempre antes de realizar trabajos de soldadura?
+    ¿Por qué es importante aislar los componentes de control electrónico antes de soldar?
+    ¿Dónde debe colocarse siempre la pinza de tierra (-) de la máquina de soldar?
+    ¿Qué piezas del camión no deben usarse para que circule la corriente de soldadura?
+    ¿Qué debe hacerse con los tanques de combustible e hidráulicos antes de soldar sobre ellos?
+    ¿Qué precaución especial se menciona sobre los paneles metálicos traseros del gabinete de control?
+    ¿Por qué no se debe soldar sobre las rejillas de escape del sistema de retardo?
+    ¿Con qué materiales se deben reparar los paneles de cables de potencia que son de aluminio o acero inoxidable?
+    ¿Por qué los cables de potencia deben sujetarse con materiales no ferrosos?
+    ¿Qué se debe hacer si se encuentra un cable de potencia con aislamiento dañado?
+    ¿Cómo se deben proteger los cables de potencia y los arneses de cables durante la soldadura?
+    ¿Qué podría pasar si no se desconectan los cables de batería antes de soldar?
+    ¿Por qué se insiste en no pasar los cables de soldadura sobre los arneses eléctricos del vehículo?
+    ¿Qué daños se podrían causar si se permite que la corriente de soldadura pase a través de rodamientos o cilindros hidráulicos?

@@ -7,18 +7,14 @@ from main import pipeline
 if "messages" not in st.session_state:
     st.session_state.messages = []
 
+#Título y cabeceras
 st.title("💬🤖 Chatbot Interactivo")
 st.header(":blue[Manual de Mantenimiento Técnico para Camiones Mineros]", divider ="blue")
 st.subheader(":grey[*Creado por Grupo 6 - Programa en Python 2025-1*]", divider ="gray")
 
 user_input = st.chat_input("Escribe tu pregunta...")
 
-llm = ChatGroq(
-    temperature=0,
-    model_name="llama-3.3-70b-versatile",
-    groq_api_key="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"
-)
-
+#Recorremos mensajes y establecemos los roles
 for msg in st.session_state.messages:
     if msg["role"] == "user":
         with st.chat_message("user"):
@@ -27,6 +23,7 @@ for msg in st.session_state.messages:
         with st.chat_message("assistant"):
             st.markdown(msg["content"])
 
+#Definimos que se debe obtener una respuesta si existe un input de usuario
 if user_input:
 
     st.session_state.messages.append({"role": "user", "content": user_input})
