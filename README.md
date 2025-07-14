@@ -12,24 +12,24 @@ Este proyecto consta de un chatbot mediante RAG, se encontra el detalle de los a
 grupo6_utec/                                                                
 │                                                              
 ├── Backend/                                                        
-│   ├── Manual/                  # carpeta del archivo
-│        ├── Manual.pdf            # archivo pdf
-│   ├── prompts/                 # carpeta archivos del prompt
-│        ├── prompt.py            # archivo prompt
-│   ├── files/                     # Codigo del backend
-│   │   ├── retrieval.py        # archivo del codigo del retrieval
-│   │   ├── llm.py                # archivo del codigo del  llm
-│   │   ├── main.py               # archivo del codigo del main
-│   │   └── parsing.py             # archivo del parsing
-│   └── requirements.txt          # requerimientos para el backend
-│
-├── frontend/
-│   ├── files/                     # Frontend source code
-│   │   ├── groq_chatbot.py     # archivo streamlit
-│   └── requirements frontend.txt          # requerimientos para el frontend
-├── README.md                    # Project documentation
-├── .env                    # archivo de entorno
-│
+│   ├── Manual/                  # carpeta del archivo                                                                    
+│        ├── Manual.pdf            # archivo pdf                                                                                
+│   ├── prompts/                 # carpeta archivos del prompt                                                                            
+│        ├── prompt.py            # archivo prompt                                                                              
+│   ├── files/                     # Codigo del backend                                                          
+│   │   ├── retrieval.py        # archivo del codigo del retrieval                                                                                            
+│   │   ├── llm.py                # archivo del codigo del  llm                                                                                                                
+│   │   ├── main.py               # archivo del codigo del main                                                                                                          
+│   │   └── parsing.py             # archivo del parsing                                                                                                                        
+│   └── requirements.txt          # requerimientos para el backend                                                                                                          
+│                                                                                                                                                        
+├── frontend/                                                                                                                                              
+│   ├── files/                     # Frontend source code                                                                                                                        
+│   │   ├── groq_chatbot.py     # archivo streamlit                                                                                                                                    
+│   └── requirements frontend.txt          # requerimientos para el frontend                                                                                                        
+├── README.md                    # Project documentation                                                                                                                                          
+├── .env                    # archivo de entorno                                                                                                                                          
+│                                                                                                                                                                                              
 
 #### Estructura del proyecto
 
