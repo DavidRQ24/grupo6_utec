@@ -9,9 +9,9 @@ Este proyecto consta de un chatbot mediante RAG, se encontra el detalle de los a
 
 #### Estructura de la carpeta
 #
-grupo6_utec/
-│
-├── Backend/
+grupo6_utec/                                                                
+│                                                              
+├── Backend/                                                        
 │   ├── Manual/                  # carpeta del archivo
 │        ├── Manual.pdf            # archivo pdf
 │   ├── prompts/                 # carpeta archivos del prompt
